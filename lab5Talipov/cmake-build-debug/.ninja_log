@@ -1,0 +1,5 @@
+# ninja log v6
+1	573	1717405598167227751	CMakeFiles/untitled5.dir/main.cpp.o	9e81f3544543d078
+2	565	1717405598167227751	CMakeFiles/untitled5.dir/client.cpp.o	dd806fa2a2afc060
+2	38	1717405619695946224	build.ninja	5b46e41a767fab51
+2	520	1717405619711946747	CMakeFiles/untitled5.dir/server.cpp.o	460ac2b639e8716f

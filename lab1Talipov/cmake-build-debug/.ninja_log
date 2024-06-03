@@ -1,0 +1,5 @@
+# ninja log v6
+4	529	1717403856568353552	CMakeFiles/untitled1.dir/Reporter.cpp.o	6fe9ed59d29fbf59
+3	510	1717403856568353552	CMakeFiles/untitled1.dir/main.cpp.o	fb17a6d3847146fb
+4	508	1717403856568353552	CMakeFiles/untitled1.dir/Creator.cpp.o	9390b75fe64e9644
+2	42	1717404517512214742	build.ninja	e985ae3c2da1f4e8

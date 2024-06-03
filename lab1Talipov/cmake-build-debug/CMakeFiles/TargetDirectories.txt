@@ -1,0 +1,5 @@
+/home/rustam/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/creator.dir
+/home/rustam/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/reporter.dir
+/home/rustam/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/main.dir
+/home/rustam/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rustam/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
